@@ -1,0 +1,6 @@
+﻿  Encryption.cpp
+c:\users\csf17daa\documents\project\project\project\encryption.cpp(18): warning C4101: 'choice': unreferenced local variable
+c:\users\csf17daa\documents\project\project\project\encryption.cpp(18): warning C4101: 'fName': unreferenced local variable
+  Main.cpp
+  Generating Code...
+  Project.vcxproj -> C:\Users\csf17daa\Documents\Project\Project\x64\Debug\Project.exe
